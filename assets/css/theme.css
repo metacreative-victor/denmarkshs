@@ -288,9 +288,9 @@ main#site-content div.entry-content a {
   }
 }
 
-@media (max-width: 575px) {
+@media (max-width: 991px) {
   #site-header .logo img {
-    max-width: 150px;
+    max-width: 300px;
     height: auto;
   }
 
